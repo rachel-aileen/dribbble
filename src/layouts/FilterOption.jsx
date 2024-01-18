@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function FilterOption() {
+export default function FilterOption({ filterText }) {
     return (
-        <div className='filterOption'>FilterOption</div>
+        <div className='filterOption'>
+            {filterText}
+        </div>
     )
 }

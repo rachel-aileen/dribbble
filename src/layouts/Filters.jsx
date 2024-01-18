@@ -14,11 +14,11 @@ export default function Filters() {
 
                 <Grid item
                 >
-                    <FilterOption />
-                    <FilterOption />
-                    <FilterOption />
-                    <FilterOption />
-                    <FilterOption />
+                    <FilterOption filterText={'Rating'} />
+                    <FilterOption filterText={'Intensity'} />
+                    <FilterOption filterText={'Value'} />
+                    <FilterOption filterText={'Brand'} />
+                    <FilterOption filterText={'Color'} />
                 </Grid>
 
 
