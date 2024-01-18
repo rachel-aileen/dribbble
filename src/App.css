@@ -29,8 +29,23 @@ body {
 .filterOption {
   background-color: white;
   height: 10vh;
-
   margin-top: 10%;
+}
 
+.topBar {
+  width: 100%;
+  background-color: white;
+  height: 100%;
+}
 
+.topBarTabs {
+  background-color: lightblue;
+  height: 100%;
+  width: 20vh;
+
+}
+
+.productOption {
+  background-color: yellow;
+  height: 30vh;
 }
