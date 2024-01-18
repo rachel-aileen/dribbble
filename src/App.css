@@ -1,5 +1,36 @@
 body {
-  background-color: pink;
+  background-color: lightpink;
   margin: 0;
   padding: 0;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #F596B7;
+  height: 100vh;
+}
+
+.content {
+  background-color: white;
+  height: 100vh;
+}
+
+.companyLogo {
+  color: white;
+}
+
+
+
+.filters {
+  background-color: aquamarine;
+  height: 100%;
+}
+
+.filterOption {
+  background-color: white;
+  height: 10vh;
+
+  margin-top: 10%;
+
+
 }
